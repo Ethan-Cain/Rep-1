@@ -34,7 +34,7 @@ Click me to display Date and Time.</button>
 ```
 | A | Simple | 3 |
 |---|:------:|---|
-|Column| : ) |Table|
+| Column | Table | : ) |
 
 ___
 This text is under the horizontal rule!
