@@ -16,9 +16,9 @@ I've always enjoyed
 >block quotes
 
 * Bulleted
-* Lists
+ * Lists
  * Are
- * Great
+* Great
 
 1. As
 2. Are
