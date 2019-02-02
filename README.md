@@ -14,3 +14,13 @@ _This is italic!_
 
 I've always enjoyed
 >block quotes
+
+* Bulleted
+* Lists
+* Are
+* Great
+
+1. As
+2. Are
+3. Numbered
+4. Lists
