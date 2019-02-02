@@ -38,3 +38,8 @@ ___
 This text is under the horizontal rule!
 
 [This should link to the other file](second)
+
+Image in my directory: 
+![Space Background](DoZSJKu.jpg)
+
+I believe this concludes my Markdown Challenge, thanks! - Ethan Cain
