@@ -13,14 +13,14 @@ _This is italic!_
 ![The GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)
 
 I've always enjoyed
->block quotes
+>block quotes.
 
 * Bulleted
- * Lists
- * Are
-* Great
+* Lists
+* Are
+* Great.
 
 1. As
 2. Are
 3. Numbered
-4. Lists
+4. Lists.
