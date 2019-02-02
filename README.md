@@ -24,3 +24,12 @@ I've always enjoyed
 2. Are
 3. Numbered
 4. Lists.
+
+```javascript
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+```
+| A | Simple | 3 |
+|---|:------:|---|
+|Column| : ) |Table|
