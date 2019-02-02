@@ -36,3 +36,5 @@ Click me to display Date and Time.</button>
 
 ___
 This text is under the horizontal rule!
+
+[This should link to the other file](Ethan-Cain/Rep-1/link file)
