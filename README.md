@@ -39,7 +39,7 @@ Click me to display Date and Time.</button>
 ___
 This text is under the horizontal rule!
 
-[This should link to the other file](second)
+[This should link to the other file](second.md)
 
 Image in my directory: 
 ![Space Background](DoZSJKu.jpg)
