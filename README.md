@@ -6,6 +6,8 @@
 
 _This is italic!_
 
+~~This is struck?through~~
+
 ## H2 Sized Header!
 
 #### H4 Sized Header!
