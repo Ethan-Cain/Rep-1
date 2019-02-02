@@ -17,8 +17,8 @@ I've always enjoyed
 
 * Bulleted
 * Lists
-* Are
-* Great
+ * Are
+ * Great
 
 1. As
 2. Are
